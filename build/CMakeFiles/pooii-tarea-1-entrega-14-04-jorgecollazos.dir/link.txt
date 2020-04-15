@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/pooii-tarea-1-entrega-14-04-jorgecollazos.dir/src/main.cpp.o  -o pooii-tarea-1-entrega-14-04-jorgecollazos 
